@@ -362,6 +362,10 @@ code, pre {
    height: 110px;   
  }
 
+ .showcase-form {
+   width: 500px; 
+ }
+
  .navbar .flex {
    flex-direction: column; 
  }
